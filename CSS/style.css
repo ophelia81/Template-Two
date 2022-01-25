@@ -296,7 +296,7 @@ body {
     grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
     padding-bottom: 50px;
     gap: 30px 30px;
-    ustify-content: center;
+    justify-content: center;
 }
 
 .grid .block2 {
